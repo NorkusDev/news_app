@@ -1,16 +1,29 @@
-# news_app
 
-A new Flutter project.
+# News App
 
-## Getting Started
+Merupakan aplikasi baca berita yang dibuat dengan flutter, dengan mengambil API dari website https://newsapi.org. Dan menggunakan State Management Flutter Bloc With Clean Artchitecture Pattern
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/NorkusDev/news_app/master/lib/src/screenshoot/app_screenshoot.png))
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Fitur Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Berita Terbaru
+- Pencarian Berita
+- Trending Berita
+- Rekomendasi Berita
+- Bookmark Berita
+- Detail Berita
+- Fitur Dark Mode
+
+
+## Cara Penggunaan Source Code
+
+Kamu perlu registrasi API KEY dari https://newsapi.org/ kemudian memasukkan API KEY ke lib\src\core\networks\network_constant.dart
+
+```bash
+// ganti dengan key kamu
+const key = "__here__";
+```
+    
