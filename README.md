@@ -4,7 +4,7 @@
 Merupakan aplikasi baca berita yang dibuat dengan flutter, dengan mengambil API dari website https://newsapi.org. Dan menggunakan State Management Flutter Bloc With Clean Artchitecture Pattern
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/NorkusDev/news_app/master/lib/src/screenshoot/app_screenshoot.png))
+![App Screenshot](https://raw.githubusercontent.com/NorkusDev/news_app/master/lib/src/screenshoot/app_screenshoot.png)
 
 
 ## Fitur Aplikasi
